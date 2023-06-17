@@ -2,7 +2,7 @@
     let email = ''
     let password = ''
     let chatons = []
-    let HOST = 'https://chatons.fly.dev'
+    let HOST = 'https://chatons.sidali.dev'
 
      function login() {
         fetch(HOST+'/login', {
